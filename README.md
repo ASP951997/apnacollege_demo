@@ -1,3 +1,3 @@
 # apnacollege_demo
 This is my First Git Project
-<br>Author - Akshay Patil
+<br>Author - Akshay (Apna College)
